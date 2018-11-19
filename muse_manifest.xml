@@ -1,0 +1,30 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rrlintranet.com" resolutions="1x" timestamp="1542670025308">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="ag9tzq__.css" crc="4211286704" ref="ag9tzq=="/>
+    <file name="index.css" crc="4115821989" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ag9tzq=="/>
+    <file name="museutils.js" crc="340535759" ref="index:ag9tzq=="/>
+    <file name="whatinput.js" crc="86476730" ref="index:ag9tzq=="/>
+    <file name="museconfig.js" crc="310584261" ref="index:ag9tzq=="/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:ag9tzq=="/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:ag9tzq=="/>
+    <file name="require.js" crc="7928878" ref="index:ag9tzq=="/>
+  </folder>
+  <folder name="images">
+    <file name="harcourtshawkesbay-01.png" crc="4153308045" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rrl-intranet-bg-blurred.jpg" crc="173932420" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u155-4.png" crc="4185781623" ref="ag9tzq=="/>
+    <file name="rrl-intranet-bg.jpg" crc="3986785125" ref="ag9tzq==">
+      <caption webpage="ag9tzq==" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="214063395" seo="true" mt="1542664564924" redirect="true"/>
+  <file name="ag9tzq==.html" crc="3842291426" seo="true" mt="1542664561855" redirect="true"/>
+</manifest>
