@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rrlintranet.com" resolutions="1x" timestamp="1542675795160">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://harcourtshb.github.io" resolutions="1x" timestamp="1542675921287">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="92522162" ref="index"/>
     <file name="106a6c241b8797f52e1e77317b96a201.css" crc="343448807" ref="106a6c241b8797f52e1e77317b96a201"/>
+    <file name="index.css" crc="92522162" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:106a6c241b8797f52e1e77317b96a201"/>
@@ -14,13 +14,6 @@
     <file name="require.js" crc="7928878" ref="index:106a6c241b8797f52e1e77317b96a201"/>
   </folder>
   <folder name="images">
-    <file name="rrl-intranet-bg-blurred.jpg" crc="173932420" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="rrl-intranet-bg.jpg" crc="3986785125" ref="106a6c241b8797f52e1e77317b96a201">
-      <caption webpage="ag9tzq==" alt=""/>
-      <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
-    </file>
     <file name="harcourtshawkesbay-01-crop-u241.png" crc="4239698593" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -28,10 +21,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
     </file>
+    <file name="rrl-intranet-bg-blurred.jpg" crc="173932420" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="harcourtshawkesbay-01-crop-u186.png" crc="4239698593" seo="true" ref="106a6c241b8797f52e1e77317b96a201">
       <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
     </file>
+    <file name="rrl-intranet-bg.jpg" crc="3986785125" ref="106a6c241b8797f52e1e77317b96a201">
+      <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="503749664" seo="true" mt="1542675783865" redirect="true"/>
-  <file name="106a6c241b8797f52e1e77317b96a201.html" crc="59191249" seo="true" mt="1542675778008" redirect="true"/>
+  <file name="index.html" crc="4208594571" seo="true" mt="1542675783865" redirect="true"/>
+  <file name="106a6c241b8797f52e1e77317b96a201.html" crc="63296330" seo="true" mt="1542675778008" redirect="true"/>
 </manifest>
