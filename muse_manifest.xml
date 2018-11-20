@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rrlintranet.com" resolutions="1x" timestamp="1542672068473">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rrlintranet.com" resolutions="1x" timestamp="1542672122432">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4115821989" ref="index"/>
@@ -26,6 +26,6 @@
       <caption webpage="ag9tzq==" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="214063395" seo="true" mt="1542664564924" redirect="true"/>
+  <file name="index.html" crc="10462219" seo="true" mt="1542672120210" redirect="true"/>
   <file name="106a6c241b8797f52e1e77317b96a201.html" crc="4169310378" seo="true" mt="1542672054489" redirect="true"/>
 </manifest>
