@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rrlintranet.com" resolutions="1x" timestamp="1542672122432">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rrlintranet.com" resolutions="1x" timestamp="1542675674371">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4115821989" ref="index"/>
-    <file name="106a6c241b8797f52e1e77317b96a201.css" crc="4211286704" ref="106a6c241b8797f52e1e77317b96a201"/>
+    <file name="index.css" crc="3976975534" ref="index"/>
+    <file name="106a6c241b8797f52e1e77317b96a201.css" crc="302615871" ref="106a6c241b8797f52e1e77317b96a201"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:106a6c241b8797f52e1e77317b96a201"/>
@@ -14,18 +14,24 @@
     <file name="require.js" crc="7928878" ref="index:106a6c241b8797f52e1e77317b96a201"/>
   </folder>
   <folder name="images">
-    <file name="harcourtshawkesbay-01.png" crc="4153308045" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="rrl-intranet-bg-blurred.jpg" crc="173932420" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u155-4.png" crc="4185781623" ref="106a6c241b8797f52e1e77317b96a201"/>
     <file name="rrl-intranet-bg.jpg" crc="3986785125" ref="106a6c241b8797f52e1e77317b96a201">
-      <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
       <caption webpage="ag9tzq==" alt=""/>
+      <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
+    </file>
+    <file name="harcourtshawkesbay-01-crop-u241.png" crc="4239698593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="harcourtshawkesbaywhite.png" crc="398114999" seo="true" ref="index:106a6c241b8797f52e1e77317b96a201">
+      <caption webpage="index" alt=""/>
+      <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
+    </file>
+    <file name="harcourtshawkesbay-01-crop-u186.png" crc="4239698593" seo="true" ref="106a6c241b8797f52e1e77317b96a201">
+      <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="10462219" seo="true" mt="1542672120210" redirect="true"/>
-  <file name="106a6c241b8797f52e1e77317b96a201.html" crc="4169310378" seo="true" mt="1542672054489" redirect="true"/>
+  <file name="index.html" crc="535055870" seo="true" mt="1542675025363" redirect="true"/>
+  <file name="106a6c241b8797f52e1e77317b96a201.html" crc="59401551" seo="true" mt="1542675665165" redirect="true"/>
 </manifest>

@@ -6,7 +6,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://rrlintranet.com/images/harcourtshawkesbay-01.png</image:loc>
+      <image:loc>http://rrlintranet.com/images/harcourtshawkesbay-01-crop-u241.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rrlintranet.com/images/harcourtshawkesbaywhite.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -14,5 +17,11 @@
     <lastmod>2018-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://rrlintranet.com/images/harcourtshawkesbaywhite.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://rrlintranet.com/images/harcourtshawkesbay-01-crop-u186.png</image:loc>
+    </image:image>
   </url>
 </urlset>
