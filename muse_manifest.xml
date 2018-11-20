@@ -1,12 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://harcourtshb.github.io" resolutions="1x" timestamp="1542684855328">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://harcourtshb.github.io" resolutions="1x" timestamp="1542754881076">
   <folder name="css">
     <file name="site_global.css" crc="244174466"/>
-    <file name="106a6c241b8797f52e1e77317b96a201.css" crc="3893943057" ref="106a6c241b8797f52e1e77317b96a201"/>
-    <file name="index.css" crc="92422188" ref="index"/>
-    <file name="958153f1b8b96ec4c4eb2147429105d9.css" crc="407110513" ref="958153f1b8b96ec4c4eb2147429105d9"/>
-    <file name="c769c2bd15500dd906102d9be97fdceb.css" crc="4210493231" ref="c769c2bd15500dd906102d9be97fdceb"/>
-    <file name="6be8bd863d10cd91b6534e589f959c8c.css" crc="127961888" ref="6be8bd863d10cd91b6534e589f959c8c"/>
-    <file name="c185ddac8b5a8f5aa23c5b80bc12d214.css" crc="3870312366" ref="c185ddac8b5a8f5aa23c5b80bc12d214"/>
+    <file name="106a6c241b8797f52e1e77317b96a201.css" crc="265060100" ref="106a6c241b8797f52e1e77317b96a201"/>
+    <file name="index.css" crc="4292476128" ref="index"/>
+    <file name="958153f1b8b96ec4c4eb2147429105d9.css" crc="3886614399" ref="958153f1b8b96ec4c4eb2147429105d9"/>
+    <file name="c769c2bd15500dd906102d9be97fdceb.css" crc="11158838" ref="c769c2bd15500dd906102d9be97fdceb"/>
+    <file name="6be8bd863d10cd91b6534e589f959c8c.css" crc="3982938203" ref="6be8bd863d10cd91b6534e589f959c8c"/>
+    <file name="c185ddac8b5a8f5aa23c5b80bc12d214.css" crc="396662451" ref="c185ddac8b5a8f5aa23c5b80bc12d214"/>
+    <file name="master_a-master.css" crc="3970982438" ref="958153f1b8b96ec4c4eb2147429105d9:c769c2bd15500dd906102d9be97fdceb:index:6be8bd863d10cd91b6534e589f959c8c:106a6c241b8797f52e1e77317b96a201:c185ddac8b5a8f5aa23c5b80bc12d214"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:106a6c241b8797f52e1e77317b96a201:c769c2bd15500dd906102d9be97fdceb:c185ddac8b5a8f5aa23c5b80bc12d214:6be8bd863d10cd91b6534e589f959c8c:958153f1b8b96ec4c4eb2147429105d9"/>
@@ -23,10 +24,10 @@
     </file>
     <file name="harcourtshawkesbaywhite.png" crc="398114999" seo="true" ref="index:106a6c241b8797f52e1e77317b96a201:c769c2bd15500dd906102d9be97fdceb:c185ddac8b5a8f5aa23c5b80bc12d214:6be8bd863d10cd91b6534e589f959c8c:958153f1b8b96ec4c4eb2147429105d9">
       <caption webpage="index" alt=""/>
-      <caption webpage="958153f1b8b96ec4c4eb2147429105d9" alt=""/>
-      <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
-      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
       <caption webpage="c185ddac8b5a8f5aa23c5b80bc12d214" alt=""/>
+      <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
+      <caption webpage="958153f1b8b96ec4c4eb2147429105d9" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
       <caption webpage="c769c2bd15500dd906102d9be97fdceb" alt=""/>
     </file>
     <file name="rrl-intranet-bg-blurred.jpg" crc="173932420" ref="index">
@@ -36,10 +37,10 @@
       <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
     </file>
     <file name="rrl-intranet-bg.jpg" crc="3986785125" ref="106a6c241b8797f52e1e77317b96a201:c769c2bd15500dd906102d9be97fdceb:c185ddac8b5a8f5aa23c5b80bc12d214:6be8bd863d10cd91b6534e589f959c8c:958153f1b8b96ec4c4eb2147429105d9">
-      <caption webpage="958153f1b8b96ec4c4eb2147429105d9" alt=""/>
+      <caption webpage="c185ddac8b5a8f5aa23c5b80bc12d214" alt=""/>
       <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
       <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
-      <caption webpage="c185ddac8b5a8f5aa23c5b80bc12d214" alt=""/>
+      <caption webpage="958153f1b8b96ec4c4eb2147429105d9" alt=""/>
       <caption webpage="c769c2bd15500dd906102d9be97fdceb" alt=""/>
     </file>
     <file name="a-master-favicon.ico" crc="395576204" ref="index"/>
@@ -53,10 +54,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="cloud-download-01.png" crc="4167135903" seo="true" ref="106a6c241b8797f52e1e77317b96a201:6be8bd863d10cd91b6534e589f959c8c">
-      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
-      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
-      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
-      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
       <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
       <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
       <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
@@ -76,11 +73,16 @@
     <file name="harcourtshawkesbay-01-crop-u581.png" crc="4239698593" seo="true" ref="958153f1b8b96ec4c4eb2147429105d9">
       <caption webpage="958153f1b8b96ec4c4eb2147429105d9" alt=""/>
     </file>
+    <file name="linkout-01.png" crc="102022308" seo="true" ref="106a6c241b8797f52e1e77317b96a201:6be8bd863d10cd91b6534e589f959c8c">
+      <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3853938879" mt="1542683241449" redirect="true"/>
-  <file name="106a6c241b8797f52e1e77317b96a201.html" crc="44747872" mt="1542683678852" redirect="true"/>
-  <file name="c769c2bd15500dd906102d9be97fdceb.html" crc="3861804679" mt="1542683295190" redirect="true"/>
-  <file name="c185ddac8b5a8f5aa23c5b80bc12d214.html" crc="123250112" mt="1542683241449" redirect="true"/>
-  <file name="6be8bd863d10cd91b6534e589f959c8c.html" crc="4091183165" mt="1542684731699" redirect="true"/>
-  <file name="958153f1b8b96ec4c4eb2147429105d9.html" crc="4208296783" mt="1542683241449" redirect="true"/>
+  <file name="index.html" crc="120124681" mt="1542754868239" redirect="true"/>
+  <file name="106a6c241b8797f52e1e77317b96a201.html" crc="3971236934" mt="1542754868239" redirect="true"/>
+  <file name="c769c2bd15500dd906102d9be97fdceb.html" crc="451125899" mt="1542754868239" redirect="true"/>
+  <file name="c185ddac8b5a8f5aa23c5b80bc12d214.html" crc="4262885307" mt="1542754868239" redirect="true"/>
+  <file name="6be8bd863d10cd91b6534e589f959c8c.html" crc="502786332" mt="1542754868239" redirect="true"/>
+  <file name="958153f1b8b96ec4c4eb2147429105d9.html" crc="34499316" mt="1542754868239" redirect="true"/>
 </manifest>
