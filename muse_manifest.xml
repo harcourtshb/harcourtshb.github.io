@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://harcourtshb.github.io" resolutions="1x" timestamp="1542754881076">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://harcourtshb.github.io" resolutions="1x" timestamp="1542764266906">
   <folder name="css">
     <file name="site_global.css" crc="244174466"/>
-    <file name="106a6c241b8797f52e1e77317b96a201.css" crc="265060100" ref="106a6c241b8797f52e1e77317b96a201"/>
+    <file name="106a6c241b8797f52e1e77317b96a201.css" crc="364459827" ref="106a6c241b8797f52e1e77317b96a201"/>
     <file name="index.css" crc="4292476128" ref="index"/>
-    <file name="958153f1b8b96ec4c4eb2147429105d9.css" crc="3886614399" ref="958153f1b8b96ec4c4eb2147429105d9"/>
-    <file name="c769c2bd15500dd906102d9be97fdceb.css" crc="11158838" ref="c769c2bd15500dd906102d9be97fdceb"/>
-    <file name="6be8bd863d10cd91b6534e589f959c8c.css" crc="3982938203" ref="6be8bd863d10cd91b6534e589f959c8c"/>
-    <file name="c185ddac8b5a8f5aa23c5b80bc12d214.css" crc="396662451" ref="c185ddac8b5a8f5aa23c5b80bc12d214"/>
+    <file name="958153f1b8b96ec4c4eb2147429105d9.css" crc="246468776" ref="958153f1b8b96ec4c4eb2147429105d9"/>
+    <file name="c769c2bd15500dd906102d9be97fdceb.css" crc="345822912" ref="c769c2bd15500dd906102d9be97fdceb"/>
+    <file name="6be8bd863d10cd91b6534e589f959c8c.css" crc="4196672012" ref="6be8bd863d10cd91b6534e589f959c8c"/>
+    <file name="c185ddac8b5a8f5aa23c5b80bc12d214.css" crc="197567583" ref="c185ddac8b5a8f5aa23c5b80bc12d214"/>
     <file name="master_a-master.css" crc="3970982438" ref="958153f1b8b96ec4c4eb2147429105d9:c769c2bd15500dd906102d9be97fdceb:index:6be8bd863d10cd91b6534e589f959c8c:106a6c241b8797f52e1e77317b96a201:c185ddac8b5a8f5aa23c5b80bc12d214"/>
   </folder>
   <folder name="scripts">
@@ -17,6 +17,10 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:106a6c241b8797f52e1e77317b96a201:c769c2bd15500dd906102d9be97fdceb:c185ddac8b5a8f5aa23c5b80bc12d214:6be8bd863d10cd91b6534e589f959c8c:958153f1b8b96ec4c4eb2147429105d9"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:106a6c241b8797f52e1e77317b96a201:c769c2bd15500dd906102d9be97fdceb:c185ddac8b5a8f5aa23c5b80bc12d214:6be8bd863d10cd91b6534e589f959c8c:958153f1b8b96ec4c4eb2147429105d9"/>
     <file name="require.js" crc="7928878" ref="index:106a6c241b8797f52e1e77317b96a201:c769c2bd15500dd906102d9be97fdceb:c185ddac8b5a8f5aa23c5b80bc12d214:6be8bd863d10cd91b6534e589f959c8c:958153f1b8b96ec4c4eb2147429105d9"/>
+    <file name="webpro.js" crc="4059564322" ref="106a6c241b8797f52e1e77317b96a201:c769c2bd15500dd906102d9be97fdceb:c185ddac8b5a8f5aa23c5b80bc12d214:6be8bd863d10cd91b6534e589f959c8c:958153f1b8b96ec4c4eb2147429105d9"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="106a6c241b8797f52e1e77317b96a201:c769c2bd15500dd906102d9be97fdceb:c185ddac8b5a8f5aa23c5b80bc12d214:6be8bd863d10cd91b6534e589f959c8c:958153f1b8b96ec4c4eb2147429105d9"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="106a6c241b8797f52e1e77317b96a201:c769c2bd15500dd906102d9be97fdceb:c185ddac8b5a8f5aa23c5b80bc12d214:6be8bd863d10cd91b6534e589f959c8c:958153f1b8b96ec4c4eb2147429105d9"/>
+    <file name="touchswipe.js" crc="4075097462" ref="106a6c241b8797f52e1e77317b96a201:c769c2bd15500dd906102d9be97fdceb:c185ddac8b5a8f5aa23c5b80bc12d214:6be8bd863d10cd91b6534e589f959c8c:958153f1b8b96ec4c4eb2147429105d9"/>
   </folder>
   <folder name="images">
     <file name="harcourtshawkesbay-01-crop-u241.png" crc="4239698593" seo="true" ref="index">
@@ -24,10 +28,10 @@
     </file>
     <file name="harcourtshawkesbaywhite.png" crc="398114999" seo="true" ref="index:106a6c241b8797f52e1e77317b96a201:c769c2bd15500dd906102d9be97fdceb:c185ddac8b5a8f5aa23c5b80bc12d214:6be8bd863d10cd91b6534e589f959c8c:958153f1b8b96ec4c4eb2147429105d9">
       <caption webpage="index" alt=""/>
-      <caption webpage="c185ddac8b5a8f5aa23c5b80bc12d214" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
       <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
       <caption webpage="958153f1b8b96ec4c4eb2147429105d9" alt=""/>
-      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="c185ddac8b5a8f5aa23c5b80bc12d214" alt=""/>
       <caption webpage="c769c2bd15500dd906102d9be97fdceb" alt=""/>
     </file>
     <file name="rrl-intranet-bg-blurred.jpg" crc="173932420" ref="index">
@@ -37,15 +41,16 @@
       <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
     </file>
     <file name="rrl-intranet-bg.jpg" crc="3986785125" ref="106a6c241b8797f52e1e77317b96a201:c769c2bd15500dd906102d9be97fdceb:c185ddac8b5a8f5aa23c5b80bc12d214:6be8bd863d10cd91b6534e589f959c8c:958153f1b8b96ec4c4eb2147429105d9">
-      <caption webpage="c185ddac8b5a8f5aa23c5b80bc12d214" alt=""/>
-      <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
-      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
       <caption webpage="958153f1b8b96ec4c4eb2147429105d9" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
+      <caption webpage="c185ddac8b5a8f5aa23c5b80bc12d214" alt=""/>
       <caption webpage="c769c2bd15500dd906102d9be97fdceb" alt=""/>
     </file>
     <file name="a-master-favicon.ico" crc="395576204" ref="index"/>
-    <file name="propertysmartslogo.png" crc="175042425" seo="true" ref="index">
+    <file name="propertysmartslogo.png" crc="175042425" seo="true" ref="index:106a6c241b8797f52e1e77317b96a201">
       <caption webpage="index" alt=""/>
+      <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
     </file>
     <file name="h1-logo-white-01-crop-u338.png" crc="122647970" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -53,13 +58,14 @@
     <file name="workplacelogo-crop-u358.png" crc="307380485" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cloud-download-01.png" crc="4167135903" seo="true" ref="106a6c241b8797f52e1e77317b96a201:6be8bd863d10cd91b6534e589f959c8c">
-      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
-      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
-      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
-      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
-      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+    <file name="cloud-download-01.png" crc="4167135903" seo="true" ref="6be8bd863d10cd91b6534e589f959c8c">
       <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
     </file>
     <file name="harcourtshawkesbay-01-crop-u443.png" crc="4239698593" seo="true" ref="c769c2bd15500dd906102d9be97fdceb">
       <caption webpage="c769c2bd15500dd906102d9be97fdceb" alt=""/>
@@ -73,16 +79,47 @@
     <file name="harcourtshawkesbay-01-crop-u581.png" crc="4239698593" seo="true" ref="958153f1b8b96ec4c4eb2147429105d9">
       <caption webpage="958153f1b8b96ec4c4eb2147429105d9" alt=""/>
     </file>
-    <file name="linkout-01.png" crc="102022308" seo="true" ref="106a6c241b8797f52e1e77317b96a201:6be8bd863d10cd91b6534e589f959c8c">
+    <file name="linkout-01.png" crc="102022308" seo="true" ref="6be8bd863d10cd91b6534e589f959c8c">
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
+    </file>
+    <file name="h1-logo-white-01-crop-u2472.png" crc="122647970" seo="true" ref="106a6c241b8797f52e1e77317b96a201">
+      <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
+    </file>
+    <file name="workplacelogo-crop-u2477.png" crc="307380485" seo="true" ref="106a6c241b8797f52e1e77317b96a201">
+      <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
+    </file>
+    <file name="help-01.png" crc="4014632184" seo="true" ref="106a6c241b8797f52e1e77317b96a201:c769c2bd15500dd906102d9be97fdceb:c185ddac8b5a8f5aa23c5b80bc12d214:6be8bd863d10cd91b6534e589f959c8c:958153f1b8b96ec4c4eb2147429105d9">
+      <caption webpage="958153f1b8b96ec4c4eb2147429105d9" alt=""/>
       <caption webpage="106a6c241b8797f52e1e77317b96a201" alt=""/>
       <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
-      <caption webpage="6be8bd863d10cd91b6534e589f959c8c" alt=""/>
+      <caption webpage="c185ddac8b5a8f5aa23c5b80bc12d214" alt=""/>
+      <caption webpage="c769c2bd15500dd906102d9be97fdceb" alt=""/>
     </file>
+    <file name="cloud-download-01-u2576.png" crc="517887454" ref="106a6c241b8797f52e1e77317b96a201"/>
+    <file name="linkout-01-u2578.png" crc="4200494369" ref="106a6c241b8797f52e1e77317b96a201"/>
+    <file name="cloud-download-01-u2807.png" crc="517887454" ref="c769c2bd15500dd906102d9be97fdceb"/>
+    <file name="linkout-01-u2803.png" crc="4200494369" ref="c769c2bd15500dd906102d9be97fdceb"/>
+    <file name="cloud-download-01-u2741.png" crc="517887454" ref="c185ddac8b5a8f5aa23c5b80bc12d214"/>
+    <file name="linkout-01-u2737.png" crc="4200494369" ref="c185ddac8b5a8f5aa23c5b80bc12d214"/>
+    <file name="cloud-download-01-u2873.png" crc="517887454" ref="6be8bd863d10cd91b6534e589f959c8c"/>
+    <file name="linkout-01-u2869.png" crc="4200494369" ref="6be8bd863d10cd91b6534e589f959c8c"/>
+    <file name="cloud-download-01-u2675.png" crc="517887454" ref="958153f1b8b96ec4c4eb2147429105d9"/>
+    <file name="linkout-01-u2671.png" crc="4200494369" ref="958153f1b8b96ec4c4eb2147429105d9"/>
   </folder>
-  <file name="index.html" crc="120124681" mt="1542754868239" redirect="true"/>
-  <file name="106a6c241b8797f52e1e77317b96a201.html" crc="3971236934" mt="1542754868239" redirect="true"/>
-  <file name="c769c2bd15500dd906102d9be97fdceb.html" crc="451125899" mt="1542754868239" redirect="true"/>
-  <file name="c185ddac8b5a8f5aa23c5b80bc12d214.html" crc="4262885307" mt="1542754868239" redirect="true"/>
-  <file name="6be8bd863d10cd91b6534e589f959c8c.html" crc="502786332" mt="1542754868239" redirect="true"/>
-  <file name="958153f1b8b96ec4c4eb2147429105d9.html" crc="34499316" mt="1542754868239" redirect="true"/>
+  <file name="index.html" crc="197337241" mt="1542764245205" redirect="true"/>
+  <file name="106a6c241b8797f52e1e77317b96a201.html" crc="16655771" mt="1542764025068" redirect="true"/>
+  <file name="c769c2bd15500dd906102d9be97fdceb.html" crc="41588376" mt="1542764054572" redirect="true"/>
+  <file name="c185ddac8b5a8f5aa23c5b80bc12d214.html" crc="4026112381" mt="1542764048053" redirect="true"/>
+  <file name="6be8bd863d10cd91b6534e589f959c8c.html" crc="4121037212" mt="1542764059113" redirect="true"/>
+  <file name="958153f1b8b96ec4c4eb2147429105d9.html" crc="3973129228" mt="1542764039375" redirect="true"/>
 </manifest>
